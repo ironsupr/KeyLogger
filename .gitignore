@@ -131,3 +131,11 @@ dmypy.json
 system_service.spec
 SystemService.spec
 stop_service.spec
+
+DecryptFile.py
+GenerateKey.py
+launcher.py
+stop_keylogger.py
+launcher.pyw
+stop.py
+
